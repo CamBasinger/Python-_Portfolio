@@ -1,5 +1,5 @@
 # Cameron_Basinger_Python_Portfolio
-This is my portfolio of python code that I learned in BISC 450C with Dr. Vandenbrink
+This is my portfolio of python code that I learned in BISC 450C with Dr. Vandenbrink. This class was my first ever experience with coding anything and first time using python. While there was a harsh adjusting period, once I got the hang of it, python and coding was fun and informative. Using these skills in a bioinformatics space, for any person, would be beneficial and help further your understanding of your own field. I hope in the future to have to apply the skills that I learned in a real world situation. 
 
 
 # Using Jupyter Notebooks
